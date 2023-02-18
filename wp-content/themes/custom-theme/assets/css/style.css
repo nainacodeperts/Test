@@ -553,7 +553,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: red;
 }
 
 .section-title h2::before {
